@@ -2,7 +2,23 @@
 
 ***
 
+### About project
+
+* Application in python with flask
+
+ - The app displays "Hello, World 1!"
+
+ - You can view it in your browser at http://localhost or http://host_ip
+
+* Dockerfile with information how to builds docker image
+
+* Jenkins pipeline scripts for build and deploy project
+
+***
+
+'''
 You can test app, before use it in CI/CD
+'''
 
 ### Host requirements and preparation:
 
@@ -13,6 +29,8 @@ You can test app, before use it in CI/CD
 * Installed curl
 
 ***
+
+### Build and deploy
 
 Download project from GitHub
 
